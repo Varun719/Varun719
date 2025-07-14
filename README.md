@@ -18,7 +18,7 @@
 
 ### 👨‍🎓 About Me
 
-🎓 I’m a **3rd-year Electronics and Communication Engineering** student at **Nirma University** with a **Minor in Computer Science**.  
+🎓 I’m a **4th-year Electronics and Communication Engineering** student at **Nirma University** with a **Minor in Computer Science**.  
 🔧 Passionate about **VLSI**, **FPGA**, **Processor Architecture**, and **Embedded Systems**.  
 🧠 Currently exploring how **AI intersects with Electronics**—especially in **hardware acceleration**, **communication systems**, and **design automation**.  
 🎯 My goal is to design **efficient, real-world-ready systems** and **push the boundary of modern electronics**.
