@@ -27,7 +27,7 @@
 
 ### 🏆 Academic Highlights
 
-- 🎓 B.Tech CGPA: `8.22 / 10.00` | Minor (CSE) CGPA: `8.50 / 10.00`
+- 🎓 B.Tech CGPA: `8.26 / 10.00` | Minor (CSE) CGPA: `8.50 / 10.00`
 - 🏫 Class XII (PCM): `86%` | Class X: `75.66%`
 - 🥇 **Top 6 student in branch** – TFWS (100% Tuition Fee Waiver)
 - 🥉 CodeChef Bronze Badge – 130+ Problems Solved
